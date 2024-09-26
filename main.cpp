@@ -7,6 +7,8 @@ void _use_grivity(Fluid_datas temp){
             for (auto& v3 : v2) {
                 v3 = 0;
             }
+            //cnmd
+            
         }
     }
 }
